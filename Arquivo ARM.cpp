@@ -49,7 +49,7 @@ void sendData(char aux){
 }
 
 /**========================================================================================================
- * A função clearmatriz serve para colocar "0" em todas as posições da matriz, deixando-a limpa
+ * A função clearmatriz serve para colocar "0" em todas as posições da matriz, deixando-a limpa.
  * ========================================================================================================*/
 
 void clearmatriz(int a[8][8]){
